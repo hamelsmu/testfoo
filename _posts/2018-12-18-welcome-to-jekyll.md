@@ -2,7 +2,7 @@
 title: "Welcome to Jekyll!"
 # Optional - date will be used from filename if not set here.
 date: 2018-12-18 18:24:52 +0200
-categories: jekyll update
+categories: [zen, jekyll, update]
 layout: post
 ---
 
